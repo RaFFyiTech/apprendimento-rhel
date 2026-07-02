@@ -4,3 +4,4 @@
 # acquistato nuovo Macbook Pro con M5 Pro vediamo come va
 # test2
 # e oggi ho imparato qualcosa di nuovo su Openshift - come aggiungere una dashboard grafana tramite json - vamossssss
+# test nuovo file python
