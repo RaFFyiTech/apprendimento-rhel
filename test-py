@@ -1,0 +1,3 @@
+ore = 1
+pagine_mancanti = 50
+print(f"Ho studiato {ore} ore e mi mancano {pagine_mancanti} pagine")
